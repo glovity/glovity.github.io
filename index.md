@@ -8,7 +8,7 @@ authors:
     link: ""  # 示例：替换为实际链接（如个人主页）
   - name: "Haofei Ma"
     link: "https://academic.mahaofei.com/"         # 示例：替换为实际链接
-  - name: "Pai Zheng"
+  - name: "Pai Zheng*"
     link: "https://www.polyu.edu.hk/ise/people/academic-staff/pai-zheng/"  # 示例：替换为实际链接
 affiliations:
     The Hong Kong Polytechnic University
