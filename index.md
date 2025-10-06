@@ -13,7 +13,7 @@ authors:
 affiliations:
     The Hong Kong Polytechnic University
 paper: "https://glovity.github.io/"
-video: "[https://www.youtube.com/results?search_query=glovity+teleoperation](https://www.youtube.com/watch?v=VlcBdhExt04)"
+video: https://youtu.be/VlcBdhExt04?si=fAgzY-jmavxqIflv
 code: https://glovity.github.io/
 data: https://glovity.github.io/
 ---
