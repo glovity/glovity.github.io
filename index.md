@@ -12,10 +12,10 @@ authors:
     link: "https://www.polyu.edu.hk/ise/people/academic-staff/pai-zheng/"  # 示例：替换为实际链接
 affiliations:
     The Hong Kong Polytechnic University
-paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-video: https://www.youtube.com/results?search_query=glovity+teleoperation
-code: https://github.com/topics/glovity
-data: https://huggingface.co/docs/datasets
+paper: 
+video: [https://www.youtube.com/results?search_query=glovity+teleoperation](https://www.youtube.com/watch?v=VlcBdhExt04)
+code: 
+data: 
 ---
 
 <!-- Main Project Image -->
@@ -138,7 +138,7 @@ Glovity\'s development is guided by three core principles that ensure both acces
 ## Citation
 
 ```bibtex
-@article{gao2024glovity,
+@article{gao2025glovity,
   title={Glovity: Learning Dexterous Contact-Rich Manipulation via Spatial Wrench Feedback Teleoperation System},
   author={Gao, Yuyang and Ma, Haofei and Zheng, Pai},
   year={2025},
