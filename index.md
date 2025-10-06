@@ -103,7 +103,7 @@ Glovity\'s development is guided by three core principles that ensure both acces
 
 <div class="columns is-centered has-text-centered">
     <div class="column is-full">
-        <img width="80%" src="/static/image/Wrench.png" alt="wrench feedback system" style="width:100%; height:auto;">
+        <img width="80%" src="/static/image/wrench.png" alt="wrench feedback system" style="width:100%; height:auto;">
         <p><em>Four base feedback modes of the wrench feedback system</em></p>
     </div>
 </div>
