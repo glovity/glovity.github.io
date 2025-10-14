@@ -13,7 +13,7 @@ authors:
 affiliations:
     The Hong Kong Polytechnic University
 paper: https://arxiv.org/pdf/2510.09229
-video: https://youtu.be/VlcBdhExt04?si=fAgzY-jmavxqIflv
+video: https://www.youtube.com/watch?v=8viJ6DdHo2A
 code: https://glovity.github.io/
 
 ---
