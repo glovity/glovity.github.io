@@ -141,6 +141,7 @@ Glovity\'s development is guided by three core principles that ensure both acces
 @article{gao2025glovity,
   title={Glovity: Learning Dexterous Contact-Rich Manipulation via Spatial Wrench Feedback Teleoperation System},
   author={Gao, Yuyang and Ma, Haofei and Zheng, Pai},
+  journal={arXiv preprint arXiv:2510.09229},
   year={2025},
 }
 ```
