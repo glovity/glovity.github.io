@@ -92,7 +92,7 @@ We present <b>Glovity</b>, a novel, low-cost wearable teleoperation system that 
 
 Glovity\'s development is guided by three core principles that ensure both accessibility and high performance:
 
-**High Cost-Performance**: The system achieves remarkable functionality at an unprecedented price point of approximately **$300** ($230 for wrench feedback system, $70 for haptic glove). This affordability is achieved through strategic use of minimal high-quality commercial components combined with 3D-printed parts, making advanced teleoperation technology accessible to researchers and developers worldwide.
+**High Cost-Performance**: The system achieves remarkable functionality at an unprecedented price point of approximately **$300**. This affordability is achieved through strategic use of minimal high-quality commercial components combined with 3D-printed parts, making advanced teleoperation technology accessible to researchers and developers worldwide.
 
 **Ease of Replication**: All components can be easily obtained online or manufactured via 3D printing. The system adopts a modular, Lego-style design philosophy, enabling complete assembly in just a few hours with basic tools. This approach democratizes access to sophisticated teleoperation capabilities.
 
