@@ -12,7 +12,7 @@ authors:
     link: "https://www.polyu.edu.hk/ise/people/academic-staff/pai-zheng/"  # 示例：替换为实际链接
 affiliations:
     The Hong Kong Polytechnic University
-arXiv: https://arxiv.org/abs/2510.09229
+paper: https://arxiv.org/abs/2510.09229
 video: https://www.youtube.com/watch?v=8viJ6DdHo2A
 code: https://glovity.github.io/
 
