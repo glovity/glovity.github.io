@@ -65,7 +65,7 @@ We present <b>Glovity</b>, a novel, low-cost wearable teleoperation system that 
             <source src="/static/video/FR.mp4" type="video/mp4">
             您的浏览器不支持视频标签。
         </video>
-        <p><em>Finnger Retargeting</em></p>
+        <p><em>Finger Retargeting</em></p>
     </div>
 </div>
 <div class="columns is-centered has-text-centered">
@@ -74,7 +74,7 @@ We present <b>Glovity</b>, a novel, low-cost wearable teleoperation system that 
             <source src="/static/video/FHC.mp4" type="video/mp4">
             您的浏览器不支持视频标签。
         </video>
-        <p><em>Finger Hall Calibration</em></p>
+        <p><em>Fingertip Hall Calibration</em></p>
     </div>
     <div class="column is-half">
         <video width="100%" autoplay controls muted loop playsinline height="auto">
