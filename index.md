@@ -112,9 +112,9 @@ Glovity\'s development is guided by three core principles that ensure both acces
 
 ## Imitation Learning
 
-**Adaptive Page Flipping**: The system successfully handles variable page thicknesses and positions, demonstrating robust adaptation to changing contact conditions.
+**Adaptive Page Flipping**: By integrating wrench data, the policy can learn to inference the next action based on the contact force and realize page turning at different heights.
 
-**Force-Aware Handovers**: Integration of wrench signals enables smooth object transfers between human and robot, with appropriate force modulation throughout the interaction.
+**Force-Aware Handovers**: Integration of wrench data enables smooth object transfers between human and robot, with appropriate force modulation throughout the interaction.
 
 <div class="columns is-centered has-text-centered">
     <div class="column is-half">
