@@ -5,7 +5,7 @@ permalink: /
 title: "Glovity: Learning Dexterous Contact-Rich Manipulation via Spatial Wrench Feedback Teleoperation System"
 authors:
   - name: "Yuyang Gao"
-    link: ""  # 示例：替换为实际链接（如个人主页）
+    link: "https://yan-7777.github.io/"  # 示例：替换为实际链接（如个人主页）
   - name: "Haofei Ma"
     link: "https://academic.mahaofei.com/"         # 示例：替换为实际链接
   - name: "Pai Zheng*"
